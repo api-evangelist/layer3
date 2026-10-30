@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Layer3 is a company surfaced as a portfolio company of electric-capital and added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.
+Layer3 is a consumer crypto platform that bills itself as a gateway to the onchain economy, combining a gasless smart wallet with curated protocol "Activations" where users complete onchain tasks to earn CUBE rewards and the L3 token. It spans 40+ chains and 500+ applications, adds trading, staking, competitions, perks, and social features, and offers a Builder product that lets protocols launch incentivized activations, set up a Space, and distribute token rewards. It is backed by Electric Capital. No public developer API, OpenAPI specification, or SDK surface was found during enrichment; the docs at docs.layer3.xyz cover the end-user Platform and no-code Builder products only.
 
-Backed by: electric-capital — https://layer3.xyz/
+**Areas:** Company · Cryptocurrency · Web3 · Blockchain · DeFi · Rewards · Onboarding · Wallets · Quests
+
+## Layer3 on APIs.io
+
+Everything profiled for Layer3 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/layer3/](https://apis.io/providers/layer3/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Layer3 Domain Security](https://apis.io/security/layer3/layer3-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://layer3.xyz/)
+- [Documentation](https://docs.layer3.xyz)
+- [Support](https://discord.com/invite/bzktXw3gEY)
+- [Blog](https://layer3.xyz/blog)
+- [Terms of service](https://layer3.xyz/terms)
+- [Privacy policy](https://app.termly.io/document/privacy-policy/a7debbc6-4ea7-44e2-a736-34adeab8e0e4)
+
+## API Evangelist rating
+
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.9** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/layer3/](https://apis.io/providers/layer3/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Layer3: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/layer3/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
